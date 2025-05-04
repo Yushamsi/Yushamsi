@@ -12,11 +12,17 @@ yushamsi = {
 I'm currently a Machine Learning Engineer at a health tech start-up, working on generative AI systems and agentic workflows. I have a background in AI, datascience, neuroscience and biochemistry. My core interests lie in AI and its intersections with health tech, education, and neuroscience.
 
 ---
+
 🚧 I’m currently working on this page 🙃
+
 👀 I’m interested in AI agents, real-world workflows, and where neuroscience and biochemistry meet tech.
+
 🌱 I’m learning advanced agent workflows and full-stack AI product development.
+
 💬 Ask me about building AI agents with memory, tools, and goals — and turning vague ideas into working systems.
+
 💞️ I’m looking to collaborate on impactful tech in health, education, and beyond.
+
 ---
 
 ### ⚙️ Technologies
